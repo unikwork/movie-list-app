@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  margin: 0;
+  padding: 0;
+}
+input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+  accent-color: #093545;
+}
+::-webkit-scrollbar {
+  display: none;
+}

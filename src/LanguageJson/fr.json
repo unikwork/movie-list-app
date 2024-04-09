@@ -1,0 +1,10 @@
+{
+  "createMovieTitle": "Créer un nouveau film",
+  "selectImage": "Sélectionnez une image",
+  "Title": "Titre",
+  "Publishing year": "Année de publication",
+  "Cancel": "Annuler",
+  "Submit": "Soumettre",
+  "titleValidation":"Le champ Titre est obligatoire.",
+  "yearValidation":"L’année de publication est requise."
+}

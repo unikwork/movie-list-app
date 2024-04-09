@@ -1,0 +1,10 @@
+{
+  "createMovieTitle": "Create a new movie",
+  "selectImage": "Select an image",
+  "Title": "Title",
+  "Publishing year": "Publishing year",
+  "Cancel": "Cancel",
+  "Submit": "Submit",
+  "titleValidation":"Title field is required.",
+  "yearValidation":"Publishing year is required."
+}
